@@ -4,4 +4,4 @@ This repository has my work for the Introduction to Computer Science class that 
 
 This class is the first class in the Computer Science major and minor, and also open to students from other academic departments. 
 
-It includes my [Homeworks](Homeworks), [Programming Assignments](Programming Assignments) and weekly [lab](Labs) assignments.
+It includes my [Homeworks](Homeworks), [Programming Assignments](Programming%20Assignments) and weekly [lab](Labs) assignments.
